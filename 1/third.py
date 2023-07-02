@@ -1,0 +1,1 @@
+# 1 | pmtn, r_j | sigma C_J
