@@ -1,0 +1,1 @@
+# P | p_j = 1 | sigma w_j U_j
